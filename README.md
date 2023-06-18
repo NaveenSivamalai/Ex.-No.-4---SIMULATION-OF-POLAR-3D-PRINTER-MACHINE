@@ -64,8 +64,8 @@ material that is used to create the printed object.
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: NAVEEN S
+### Register Number: 212222110030
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
